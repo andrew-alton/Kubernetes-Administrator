@@ -23,7 +23,6 @@ Requirement: AppA Pod requires high memory and CPU. Run it in Big Node.
 
 ## Why Use Node Selectors
 
-1. To ensure certain workloads run on specific nodes with special hardware or
+1. To ensure certain workloads run on specific nodes with special hardware or configurations (e.g., GPUs, high-memory nodes).
 
-configurations (e.g., GPUs, high-memory nodes).
 2. To segregate workloads for compliance, performance, or isolation purposes.
